@@ -10,7 +10,7 @@
 carpentry: "lc"
 
 # Overall title for pages.
-title: "Library Carpentry: OpenRefine"
+title: "SETU / Library Carpentry: OpenRefine"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
@@ -29,7 +29,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "david.kane@setu.ie"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
